@@ -7,7 +7,7 @@ The portfolio features a modern **Dark Developer Theme** with smooth animations,
 ---
 
 ## 🚀 Live Demo  
-🔗 (GitHub Pages link will appear here after deployment)
+🔗 (https://interactive-portfolio-neon.vercel.app/)
 
 ---
 
